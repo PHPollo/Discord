@@ -1,0 +1,1 @@
+Imagenes necesarios del bot
