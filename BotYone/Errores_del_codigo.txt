@@ -1,0 +1,4 @@
+    Dentro de la programacion de este bot se pudieron observar
+distintos problemas dentro de los cuales se hallaron una
+cantidad de [] erros.
+    Todos esas fallas del bot [] son:

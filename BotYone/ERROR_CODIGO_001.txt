@@ -1,0 +1,10 @@
+
+
+Origen del error: DESCONOCIDO
+Grado de problema: MENOR/POCO PRIORITARIO
+Posible soluncion para el problema: DESCONOCIDO
+Tiempo estimado para solucionarlo: INDEFINIDO
+
+Descripcion:
+    El ERROR_CODIGO_001 es un error en los sistemas del bot, en donde no indica o anuncia que fue activado su programacion.
+    No presenta ningun grado de peligro para sus sistemas, haciendo que sea posible realizar configuraciones en su programa.
